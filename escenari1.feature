@@ -2,7 +2,7 @@ Caracteristica: Reserva y compra  de transporte de cargas online
 
 Como cliente quiero realizar  una reservación de transporte de carga para enviar paquetes a diferentes destinos.
 
-Scenari: Cliente quiere realizar su reserva de carga.
+Scenario: Cliente quiere realizar su reserva de carga.
   Given que el cliente quiere enviar un paquete.
   When se acerca a agencia de la empresa.
   When confirma el paquete transportado.
