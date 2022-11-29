@@ -1,9 +1,9 @@
-Caracteristica: Reserva y compra de transporte de pasajeros online
+Caracteristica Reserva y compra de transporte de pasajeros online
 
 Como pasajero quiero realizar mi reservación de transporte de manera online.
 
 Scenario: Pasajero quiere realizar su reserva de pasaje.
-  given que el pajero quiere viajar realiza una reserva.
+  Given que el pajero quiere viajar realiza una reserva.
   When el pasajero solita una reserva.
   When selecciona la hora y fecha.
   And fija un destino.
